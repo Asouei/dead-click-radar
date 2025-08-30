@@ -1,0 +1,21 @@
+{
+  "name": "dead-click-radar-workspace",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "author": "Aleksandr Mikhailishin",
+  "scripts": {
+    "dev": "pnpm --filter dead-click-radar-demo dev",
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "clean": "pnpm -r clean",
+    "publish:core": "pnpm --filter @asouei/dead-click-radar publish"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=8"
+  }
+}
