@@ -1,5 +1,9 @@
 # Dead-Click Radar
 
+[![npm version](https://img.shields.io/npm/v/@asouei/dead-click-radar)](https://www.npmjs.com/package/@asouei/dead-click-radar)
+[![npm downloads](https://img.shields.io/npm/dt/@asouei/dead-click-radar)](https://www.npmjs.com/package/@asouei/dead-click-radar)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
+
 **English** | [Русский](#русский)
 
 > Catch dead clicks. Fix UX before users rage.
