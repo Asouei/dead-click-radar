@@ -258,6 +258,8 @@ Works in all modern browsers:
 
 MIT
 
+💻 Author: [asouei.dev](https://asouei.dev)
+
 ---
 
 # Русский
@@ -349,3 +351,6 @@ interface DeadClickRadarOptions {
 ## Лицензия
 
 MIT
+
+
+💻 Автор: [asouei.dev](https://asouei.dev)

@@ -4,6 +4,7 @@
   "type": "module",
   "license": "MIT",
   "author": "Aleksandr Mikhailishin",
+  "url": "https://asouei.dev",
   "scripts": {
     "dev": "pnpm --filter dead-click-radar-demo dev",
     "build": "pnpm -r build",
